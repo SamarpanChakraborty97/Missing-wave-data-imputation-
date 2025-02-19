@@ -13,6 +13,6 @@ This software is made public for research use only. It may be modified and redis
 Please cite [1] and [2] if you use the codes here in your work.
 
 ## References
-[1] [Breunung, T., & Balachandran, B. (2024). Prediction of freak waves from buoy measurements. Scientific Reports, 14(1), 16048](https://doi.org/10.1038/s41598-024-66315-3).
-[2] [Chakraborty, C., Ide, K., & Balachandran, B. (2025). Missing values imputation in ocean buoy time series data. Ocean Engineering, 318, 120145](https://www.sciencedirect.com/science/article/pii/S0029801824034838)
+1. [Breunung, T., & Balachandran, B. (2024). Prediction of freak waves from buoy measurements. Scientific Reports, 14(1), 16048](https://doi.org/10.1038/s41598-024-66315-3)
+2.  [Chakraborty, C., Ide, K., & Balachandran, B. (2025). Missing values imputation in ocean buoy time series data. Ocean Engineering, 318, 120145](https://www.sciencedirect.com/science/article/pii/S0029801824034838)
 
